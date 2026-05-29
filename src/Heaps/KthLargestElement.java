@@ -18,6 +18,6 @@ public class KthLargestElement {
         int[] arr = {3,2,3,1,2,4,5,5,6};
         int k = 4; // ans = 4;
 
-        System.out.println("Kth smallest element in array is: " + kthSmallest(arr, k));
+        System.out.println("Kth largest element in array is: " + kthSmallest(arr, k));
     }
 }
