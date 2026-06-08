@@ -2,7 +2,10 @@
   <dictionary name="project">
     <words>
       <w>aaaabbcccdaa</w>
+      <w>aayega</w>
       <w>abbaca</w>
+      <w>achha</w>
+      <w>badh</w>
       <w>barabar</w>
       <w>bharo</w>
       <w>bhejo</w>
@@ -10,18 +13,22 @@
       <w>chhota</w>
       <w>dekh</w>
       <w>denge</w>
+      <w>dijksta</w>
       <w>dztz</w>
       <w>fermats</w>
       <w>galat</w>
       <w>hoares</w>
       <w>hoga</w>
       <w>isiliye</w>
+      <w>isko</w>
       <w>isme</w>
       <w>isse</w>
       <w>janta</w>
+      <w>jarurat</w>
       <w>jayega</w>
       <w>jisme</w>
       <w>jitna</w>
+      <w>kahns</w>
       <w>karenge</w>
       <w>karne</w>
       <w>karte</w>
@@ -43,18 +50,23 @@
       <w>pred</w>
       <w>purane</w>
       <w>pwwkew</w>
+      <w>rahega</w>
       <w>rakhe</w>
       <w>rakhna</w>
       <w>raphson</w>
       <w>sabhi</w>
       <w>sabka</w>
+      <w>sakte</w>
       <w>seive</w>
+      <w>succ</w>
       <w>tarika</w>
       <w>thak</w>
       <w>thik</w>
       <w>upar</w>
       <w>utha</w>
+      <w>wahi</w>
       <w>wapas</w>
+      <w>zeroonematrix</w>
     </words>
   </dictionary>
 </component>
