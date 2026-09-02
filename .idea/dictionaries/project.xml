@@ -5,16 +5,24 @@
       <w>aayega</w>
       <w>abbaca</w>
       <w>achha</w>
+      <w>apne</w>
       <w>badh</w>
       <w>barabar</w>
+      <w>bhar</w>
+      <w>bhara</w>
       <w>bharo</w>
       <w>bhejo</w>
       <w>chahiye</w>
+      <w>chalao</w>
+      <w>chalayenge</w>
+      <w>chalega</w>
       <w>chhota</w>
+      <w>condn</w>
       <w>dekh</w>
       <w>dekho</w>
       <w>denge</w>
       <w>derangements</w>
+      <w>diag</w>
       <w>dijksta</w>
       <w>diye</w>
       <w>dztz</w>
@@ -33,13 +41,17 @@
       <w>jayega</w>
       <w>jisme</w>
       <w>jitna</w>
+      <w>jyada</w>
       <w>kahns</w>
+      <w>karega</w>
       <w>karenge</w>
       <w>karne</w>
       <w>karte</w>
+      <w>kiya</w>
       <w>kosaraju</w>
       <w>kyuki</w>
       <w>lafda</w>
+      <w>lagane</w>
       <w>lcan</w>
       <w>leetcode</w>
       <w>likh</w>
@@ -55,6 +67,7 @@
       <w>padta</w>
       <w>pahle</w>
       <w>payega</w>
+      <w>pehla</w>
       <w>pichhe</w>
       <w>pred</w>
       <w>purane</w>
@@ -67,6 +80,8 @@
       <w>sabka</w>
       <w>sakte</w>
       <w>seive</w>
+      <w>sidha</w>
+      <w>submat</w>
       <w>succ</w>
       <w>tarika</w>
       <w>thak</w>
@@ -77,6 +92,7 @@
       <w>uska</w>
       <w>utha</w>
       <w>wahi</w>
+      <w>waise</w>
       <w>wapas</w>
       <w>zeroonematrix</w>
     </words>

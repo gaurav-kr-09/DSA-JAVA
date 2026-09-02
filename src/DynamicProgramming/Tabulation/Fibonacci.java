@@ -1,7 +1,7 @@
 package DynamicProgramming.Tabulation;
 
 public class Fibonacci {
-    public static int fib(int n) {
+    /*public static int fib(int n) {
         if(n <= 1) return n;
 
         int[] dp = new int[n+1];
@@ -12,6 +12,21 @@ public class Fibonacci {
         }
 
         return dp[n];
+    }*/
+
+    // Space optimized
+    public static int fib(int n) {
+        if(n <= 1) return n;
+
+        int a = 0, b = 1;
+
+        for(int i=2; i<=n; i++){
+            int temp = b;
+            b += a;
+            a = temp;
+        }
+
+        return b;
     }
 
     public static void main(String[] args) {
