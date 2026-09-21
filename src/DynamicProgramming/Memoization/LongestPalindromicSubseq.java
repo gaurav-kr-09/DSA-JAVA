@@ -21,10 +21,10 @@ public class LongestPalindromicSubseq {
     public static int longestPalindromeSubseq(String s) {
         int n = s.length();
 
+        // i -> 0 to n-1 | j -> 0 to n-1
         int[][] dp = new int[n][n];
         for(int[] row: dp) Arrays.fill(row, -1);
 
-        // i -> 0 to n-1 | j -> 0 to n-1
         return lps(0, s.length()-1, s, dp);
     }
 
