@@ -3,6 +3,7 @@
     <words>
       <w>aaaaa</w>
       <w>aaaabbcccdaa</w>
+      <w>aane</w>
       <w>aaya</w>
       <w>aayega</w>
       <w>abbaca</w>
@@ -10,8 +11,11 @@
       <w>apne</w>
       <w>badal</w>
       <w>badh</w>
+      <w>badhana</w>
       <w>badhega</w>
       <w>badhiya</w>
+      <w>badle</w>
+      <w>bahut</w>
       <w>banane</w>
       <w>banaye</w>
       <w>banega</w>
@@ -26,6 +30,7 @@
       <w>chalayenge</w>
       <w>chalega</w>
       <w>chhota</w>
+      <w>chhote</w>
       <w>chuke</w>
       <w>condn</w>
       <w>dekh</w>
@@ -51,6 +56,7 @@
       <w>isme</w>
       <w>isse</w>
       <w>jagah</w>
+      <w>jaha</w>
       <w>janta</w>
       <w>jarurat</w>
       <w>jayega</w>
@@ -81,6 +87,7 @@
       <w>likhte</w>
       <w>liye</w>
       <w>lomuto</w>
+      <w>ltie</w>
       <w>milega</w>
       <w>milta</w>
       <w>nahi</w>
@@ -100,6 +107,7 @@
       <w>pwwkew</w>
       <w>rahe</w>
       <w>rahega</w>
+      <w>rakh</w>
       <w>rakhe</w>
       <w>rakhega</w>
       <w>rakhna</w>
@@ -108,7 +116,9 @@
       <w>sabka</w>
       <w>sabko</w>
       <w>sakte</w>
+      <w>samajh</w>
       <w>samjhe</w>
+      <w>sched</w>
       <w>seive</w>
       <w>sidha</w>
       <w>submat</w>
@@ -120,6 +130,7 @@
       <w>thik</w>
       <w>thoda</w>
       <w>tribo</w>
+      <w>tukka</w>
       <w>upar</w>
       <w>uska</w>
       <w>uske</w>
