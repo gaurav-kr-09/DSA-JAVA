@@ -1,4 +1,4 @@
-package DynamicProgramming.Memoization;
+package DynamicProgramming;
 
 public class MinXorPathIngrid {
     // ye kam to kar rha hai but ye achha solution nahi hai (tukka hai)
